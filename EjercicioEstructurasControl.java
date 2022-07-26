@@ -9,7 +9,7 @@ public class EjercicioEstructurasControl {
         String[] nombres = {"Carlos", "Juan", "Mar", "Sandra", "Abril"};
 
         for(String nombre : nombres) {
-            System.out.println("Su nombre es " + nombre);
+            System.out.print("Su nombre es " + nombre);
         }
     }
 }
